@@ -1,6 +1,4 @@
-Hello
-<<<<<<< HEAD
+Hello World
 I am Vampire
-=======
-new line
->>>>>>> 3d8a106 (cs -c)
+new line 
+(cs -c)
