@@ -1,4 +1,4 @@
 Hello World
 I am Vampire
 new line 
-(cs -c)
+cs -c
